@@ -1,0 +1,13 @@
+player,preferred_move,decision_rule,final_points
+Ava,Rock,always_preferred,91
+Ben,Paper,always_preferred,89
+Carla,Scissors,always_preferred,62
+Diego,Rock,never_paper,74
+Elena,Scissors,never_paper,75
+Farid,Rock,never_paper,63
+Grace,Rock,mostly_preferred,78
+Hugo,Paper,mostly_preferred,79
+Iris,Scissors,mostly_preferred,71
+Julia,Rock,always_preferred,83
+Kai,Paper,always_preferred,90
+Luis,Scissors,always_preferred,58
